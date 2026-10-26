@@ -45,7 +45,7 @@ Invisible Technologies | AI Data Trainer
 
 🌐 Languages
 
-English, Hindi, Urdu, and Kashmiri## 
+English, Hindi, Urdu, and Kashmiri
 
 
 
