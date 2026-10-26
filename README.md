@@ -1,16 +1,51 @@
-## Hi there 👋
+Hi, I'm Zakir Ali 👋
 
-<!--
-**zakirgazanfer3-cloud/zakirgazanfer3-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineering & AI Evaluation Specialist
 
-Here are some ideas to get you started:
+I'm interested in software development, AI model evaluation, coding assessments, and quality assurance.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Technical Skills
+
+- Languages: JavaScript, TypeScript, SQL
+- Frontend: React
+- Backend: Node.js
+- Database: SQLite
+- Testing: Playwright, automated testing, test suites
+- AI Evaluation: Coding task evaluation, benchmarking, code verification
+- Data Operations: Data annotation, dataset quality assurance
+
+💼 Professional Experience
+
+TEC | Software Engineering & AI Coding Evaluation
+
+- Worked on software engineering tasks across frontend, backend, and full-stack workflows.
+- Evaluated coding tasks and test cases.
+- Reviewed code correctness, quality, and edge cases.
+- Worked with benchmarking and AI evaluation processes.
+
+Innodata | Data Annotator
+
+- Annotated and labeled data according to project guidelines.
+- Reviewed text and image data for accuracy.
+- Supported AI training data quality.
+
+Invisible Technologies | AI Data Trainer
+
+- Evaluated AI-generated responses.
+- Reviewed accuracy, clarity, and logical consistency.
+- Performed quality checks on datasets and model outputs.
+
+🎯 Areas of Interest
+
+- Software Engineering
+- AI Model Evaluation
+- Automated Testing
+- AI Training Data
+- Code Quality and Reliability
+
+🌐 Languages
+
+English, Hindi, Urdu, and Kashmiri## 
+
+
+
